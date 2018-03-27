@@ -2,7 +2,7 @@
 
 To load the main site, go to:
 
-https://github.com/uky-transport-data-science/spring-2018/
+https://uky-transport-data-science.github.io/spring-2018/
 
 Lens by HTML5 UP
 html5up.net | @ajlkn
